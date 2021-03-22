@@ -1,6 +1,6 @@
 # MGCA
 Welcome to the GitHub repository associated with our research  
-**Involvement of CDH11CDH11 in ASD suggested by matched-gene co-expression analysis and mouse behavioral studies**  
+**Involvement of CDH11 in ASD suggested by matched-gene co-expression analysis and mouse behavioral studies**  
 **Wu et al.,**
 
 ## Abstract
