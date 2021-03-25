@@ -15,7 +15,14 @@ A large number of putative risk genes of ASD have been reported. The functions o
 * `100000_Rand-Gene.pl`: This script is designed to get 100000 random genesets and calculate their internal CC and CC to the input geneset. 
 * `MGCA_Range50.pl`: This script is designed to calculate P-value of gene by MGCA under gene expression level, gene length or GC content ranked.
 * `FDR.pl`: This script is designed to calculate FDR of whole genes by MGCA.
-* `Heatmap_Cluster`:This script is designed to get the heatmap of the matrix of correlation coefficient between two interested gene sets.
+* `Heatmap_Cluster.R`:This script is designed to get the heatmap of the matrix of correlation coefficient between two interested gene sets.
+* `hcASD_Gene`: high confidence ASD risk gene set.
+* `mRNA-Abundance_Ranked_Gene`: Whole gene set ranked by gene expression.
+* `gDNA-Size_Ranked_Gene`: Whole gene set ranked by gene size.
+* `GC-Content_Ranked_Gene`: Whole gene set ranked by GC content.
+* `mRNA-Abundance_Ranked_Data`: Primary data ranked by gene expression.
+* `gDNA-Size_Ranked_Data`: Primary data ranked by gene size.
+* `GC-Content_Ranked_Data`: Primary data ranked by GC content.
 
 ## Questions/Issues
 Please direct any questions or issues with the code published here to `xbyuan@brain.ecnu.edu.cn`
