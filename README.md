@@ -20,9 +20,9 @@ A large number of putative risk genes of ASD have been reported. The functions o
 * `mRNA-Abundance_Ranked_Gene`: Whole gene set ranked by gene expression.
 * `gDNA-Size_Ranked_Gene`: Whole gene set ranked by gene size.
 * `GC-Content_Ranked_Gene`: Whole gene set ranked by GC content.
-* `mRNA-Abundance_Ranked_Data`: Primary data ranked by gene expression.
-* `gDNA-Size_Ranked_Data`: Primary data ranked by gene size.
-* `GC-Content_Ranked_Data`: Primary data ranked by GC content.
+* `mRNA-Abundance_Ranked_Data`: The human brain transcriptome dataset ranked by gene expression.
+* `gDNA-Size_Ranked_Data`: The human brain transcriptome dataset ranked by gene size.
+* `GC-Content_Ranked_Data`: The human brain transcriptome dataset ranked by GC content.
 
 ## Questions/Issues
 Please direct any questions or issues with the code published here to `xbyuan@brain.ecnu.edu.cn`
